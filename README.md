@@ -1,5 +1,6 @@
 # Hardware Id Handler
-
+[![Lint Code Base](https://github.com/scmitty/HardwareIdHandler/actions/workflows/linter.yml/badge.svg)](https://github.com/scmitty/HardwareIdHandler/actions/workflows/linter.yml)
+[![CodeQL](https://github.com/scmitty/HardwareIdHandler/actions/workflows/codeql.yml/badge.svg)](https://github.com/scmitty/HardwareIdHandler/actions/workflows/codeql.yml)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/scmitty/HardwareIdHandler/blob/master/LICENSE)
 
 A library for .Net for Hardware Id <br />
