@@ -17,3 +17,9 @@ please fork the repo and create a pull request on develop branch.
 You can also simply open an issue with the tag "enhancement".
 
 Don't forget to give the project a star! Thanks again!
+
+## License
+
+Distributed under the MIT License. See `LICENSE.txt` for more information.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
