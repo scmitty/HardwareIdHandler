@@ -1,4 +1,7 @@
-### Hardware Id Handler
+# Hardware Id Handler
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/scmitty/HardwareIdHandler/blob/master/LICENSE)
+
 A library for .Net for Hardware Id <br />
 
 ## Featuers
@@ -9,12 +12,8 @@ in the future the library will be modified to do database checks <br /> <br />
 
 ## Contributing
 
-Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-
-If you have a suggestion that would make this better,
-please fork the repo and create a pull request on develop branch.
-
-You can also simply open an issue with the tag "enhancement".
+The project is constantly evolving. Contributions are welcome. Feel free to file issues and pull requests on the repo and we'll address them as we can.
+Use develop branch.
 
 Don't forget to give the project a star! Thanks again!
 
