@@ -3,12 +3,12 @@ using System.Security.Cryptography;
 using System.Net;
 using System.Management;
 
-namespace HwidHandler.DLL
+namespace HwidHandlerObsolete
 {
     /// <summary>
     /// this class allow to manage a Hardware Id
     /// </summary>
-    public class HardwareIdHandler
+    internal class HardwareIdHandler
     {
         /// <summary>
         /// class field to set the activ HwId
