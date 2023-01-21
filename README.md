@@ -7,9 +7,28 @@ A library for .Net for Hardware Id <br />
 
 ## Featuers
 
-a first non-optimized version of a library to create a hardware id generated on the basis of the PC information (only windows pc for now) <br /> <br />
+- Generate a Hardware Id base 
+  on Computer Hardware Information:
 
-in the future the library will be modified to do database checks <br /> <br />
+      - Motherboard
+      - CPU
+      - Bios
+      - Disk
+      - Networkcard
+
+#### Supported OS
+  
+      - Windows
+      
+      in the development phase
+      - Linux
+      - Mac OS
+
+### RoadMap
+      - automate the handlig of Hardware Id
+      - take / modify / handlign of a list authorize of Hardware Id for your application or service
+      - handling the list with http request / database to connect with your application or service
+      
 
 ## Contributing
 
