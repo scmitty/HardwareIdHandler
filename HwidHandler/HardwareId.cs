@@ -16,7 +16,6 @@ namespace HwidHandler
         public readonly string HwId;
 
         private HardwareProperties HarwareProperties= new HardwareProperties();
-        private object swicht;
 
         /// <summary>
         /// using the computer propriets create a hash string, that allow to have a unique id
